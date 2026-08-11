@@ -1,0 +1,5 @@
+{
+    "model_name": "Random Forest",
+    "task": "Classification",
+    "f1_score": 0.9365
+}

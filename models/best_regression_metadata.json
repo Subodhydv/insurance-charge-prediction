@@ -1,0 +1,5 @@
+{
+    "model_name": "Gradient Boosting",
+    "task": "Regression",
+    "r2_score": 0.8982
+}

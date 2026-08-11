@@ -1,0 +1,11 @@
+Model,F1_Score,Accuracy,Precision,Recall,ROC_AUC
+Random Forest,0.9365,0.9366,0.9385,0.9366,0.9546
+Decision Tree,0.929,0.9291,0.932,0.9291,0.9313
+XGBoost Classifier,0.929,0.9291,0.931,0.9291,0.9541
+SVM Classifier (SVC),0.9253,0.9254,0.9269,0.9254,0.972
+Gradient Boosting,0.9216,0.9216,0.9228,0.9216,0.9512
+Bagging Classifier,0.9141,0.9142,0.9161,0.9142,0.9469
+AdaBoost Classifier,0.9136,0.9142,0.9246,0.9142,0.9474
+Logistic Regression,0.9104,0.9104,0.9105,0.9104,0.9442
+KNN Classifier,0.8917,0.8918,0.8936,0.8918,0.938
+Naive Bayes,0.7288,0.7463,0.8317,0.7463,0.9438
